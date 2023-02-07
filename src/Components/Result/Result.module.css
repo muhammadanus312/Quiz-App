@@ -1,0 +1,13 @@
+.resultBox {
+    min-height: 300px;
+    width: 400px;
+    /* width: 300px; */
+    background-color: rgb(143 148 250 / 71%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+    border-radius: 20px;
+    padding-left: 100px;
+    /* align-items: center; */
+  }
